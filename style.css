@@ -1,0 +1,10 @@
+body {
+  background-color: #111;
+  color: #fff;
+  font-size: 25px;
+  margin: 1em;
+  font-family: Helvetica, Arial, sans-serif;
+}
+input {
+  font-size: 25px;
+}
